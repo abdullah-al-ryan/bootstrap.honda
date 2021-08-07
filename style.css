@@ -1,0 +1,42 @@
+/* font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body p, body small
+{
+    font-family: 'Poppins', sans-serif;
+
+}
+main section {
+    padding: 50px 0;
+ }
+.header-bg-colour
+{
+    background-color: #264653;
+}
+
+
+
+.purchase-button
+{
+    font-family: 'Poppins';
+    color: white;
+    background-color: #E76F51;
+    width: 168px;
+    height: 44px;
+    border-color: #E76F51;
+    border-radius: 5px;
+}
+
+main img
+{
+    width: 288px;
+    height: 243px;
+}
+
+.text, .fas, .far
+{
+    color: #E76F51;
+}
+ 
+
+
